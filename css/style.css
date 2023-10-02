@@ -1,0 +1,24 @@
+.BodyPage{
+    background-color: #ffe0cf;
+}
+.HeaderLogo{
+    width: 287px;
+    height: 78px;
+    margin-left: 139px;
+    margin-top: 20px;
+}
+HeaderLogo:link{
+    cursor: pointer;
+    margin-left: 139px;
+    margin-top: 20px;
+}
+.Background1{
+    color: rgb(226, 15, 15);
+    width: 1000px;
+    height: 1000px;
+}
+h1{
+    color: rgb(255, 5, 5);
+    width: 1000px;
+    height: 1000px;
+}
