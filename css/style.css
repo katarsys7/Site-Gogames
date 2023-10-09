@@ -4,8 +4,6 @@
 .HeaderLogo{
     width: 287px;
     height: 78px;
-    margin-left: 139px;
-    margin-top: 20px;
 }
 HeaderLogo:link{
     cursor: pointer;
@@ -17,28 +15,49 @@ HeaderLogo:link{
     width: 1000px;
     height: 1000px;
 }
-h1{
-    color: rgb(255, 5, 5);
-    width: 1000px;
-    height: 1000px;
-}
 .MenuText{
+    justify-content: center;
+    list-style: none;
+    display: flex;
     font-size: 18px;
-    margin-top: 59px;
-    margin-right: 263px;
+    gap: 80px;
+    margin-left: 350px;
+
 }
 .LeftTopTextDescription{
     font-size: 18px;
     font-weight: 500;
     line-height: 162%;
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
 }
 .SitePart1{
-    align-items: center;
-    display: grid;
-    gap: 35px;
+ display: grid;
+}
+.TopImages{
+    position: absolute;
+}
+.TopGlasses{
+
+}
+.TopCharacter{
+
+}
+.TopGamepad{
+
+}
+.LeftTop{
+    position: absolute;
+    left: 50%;
+    bottom: -30%;
+}
+.LeftTopText2{
+    font-size: 58px;
+}
+.Top{
+    display: flex;
+}
+.TopX{
+    animation:
+}
+.TopSection{
+    margin-left: 350px;
 }
