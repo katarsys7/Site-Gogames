@@ -1,0 +1,74 @@
+.BodyPage{
+    background-color: #ffe0cf;
+}
+.HeaderLogo{
+    width: 287px;
+    height: 78px;
+}
+HeaderLogo:link{
+    cursor: pointer;
+    margin-left: 139px;
+    margin-top: 20px;
+}
+.MenuText{
+    list-style: none;
+    justify-content: center;
+    display: flex;
+    font-size: 18px;
+    gap: 80px;
+    margin-left: 350px;
+}
+.LeftTopTextDescription{
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 162%;
+}
+.SitePart1{
+    display: flex;
+}
+.TopImages{
+    display: flex;
+}
+.TopGlasses{
+    position: absolute;
+    margin-left: 642px;
+    margin-top: 152px;
+}
+.TopCharacter{
+    position: absolute;
+    margin-left: 705px;
+    margin-top: 180px;
+}
+.TopGamepad{
+    position: absolute;
+    margin-top: 674px;
+    margin-left: 1160px;
+}
+.LeftTop{
+    position: absolute;
+    display: grid;
+    margin-top: 200px;
+    margin-right: 50%;
+}
+.LeftTopText2{
+    font-size: 58px;
+}
+.Top{
+    display: flex;
+}
+.TopX{
+    margin-left: 250px;
+    margin-top: 70px; 
+}
+.TopSection{
+    margin-left: 250px;
+}
+.GSN{
+    width: 150px;
+    color: white;
+    display: flex;
+    border-radius: 25px;
+    padding: 15px 15px;
+    justify-content: center;
+    background: linear-gradient(95deg, #4499D9 17.46%, #7367BE 87.77%);
+}
