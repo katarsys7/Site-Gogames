@@ -1,5 +1,6 @@
 .BodyPage{
-    background-color: #ffe0cf;
+    background-color: #fddecd;
+    font-family: 'Josefin Sans', sans-serif;
 }
 .HeaderLogo{
     width: 287px;
@@ -10,18 +11,19 @@ HeaderLogo:link{
     margin-left: 139px;
     margin-top: 20px;
 }
+a{
+    color: inherit;
+    text-decoration: none;
+}
 .MenuText{
+    color: #446381;
     list-style: none;
+    align-items: center;
     justify-content: center;
     display: flex;
     font-size: 18px;
-    gap: 80px;
-    margin-left: 350px;
-}
-.LeftTopTextDescription{
-    font-size: 18px;
-    font-weight: 500px;
-    line-height: 162%;
+    gap: 50px;
+    margin-left: 300px;
 }
 .SitePart1{
     display: flex;
@@ -31,37 +33,52 @@ HeaderLogo:link{
 }
 .TopGlasses{
     position: absolute;
-    margin-left: 642px;
-    margin-top: 152px;
+    margin-left: 542px;
+    margin-top: 52px;
 }
 .TopCharacter{
     position: absolute;
-    margin-left: 705px;
-    margin-top: 180px;
+    margin-left: 605px;
+    margin-top: 80px;
 }
 .TopGamepad{
     position: absolute;
-    margin-top: 674px;
-    margin-left: 1160px;
+    margin-top: 574px;
+    margin-left: 1060px;
 }
 .LeftTop{
-    position: absolute;
     display: grid;
     margin-top: 200px;
     margin-right: 50%;
 }
+.LeftTopText1{
+    color: #446381;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
 .LeftTopText2{
-    font-size: 58px;
+    color: #EB8382;
+    font-size: 68px;
+    margin-bottom: 40px;
+}
+.LeftTopTextDescription{
+    color: #446381;
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 162%;
+    margin-bottom: 30px;
+    margin-right: 100px;
 }
 .Top{
     display: flex;
 }
 .TopX{
-    margin-left: 250px;
-    margin-top: 70px; 
+    margin-left: 300px;
+    margin-top: 0px; 
 }
 .TopSection{
-    margin-left: 250px;
+    margin-left: 350px;
+    margin-right: 300px;
 }
 .GSN{
     width: 150px;
@@ -72,3 +89,30 @@ HeaderLogo:link{
     justify-content: center;
     background: linear-gradient(95deg, #4499D9 17.46%, #7367BE 87.77%);
 }
+.mid_page{
+    background-color: #ffe6d8;
+    margin-top: 50px;
+    display: flex;
+}
+.MidSection{
+    margin-top: 300px;
+    margin-left: 350px;
+    margin-right: 300px;
+}
+.midphotos{
+    position: absolute;
+}
+.midman{
+    margin-left: -100px;
+}
+.midshadow{
+    margin-left: 100px;
+}
+.midtv{
+
+}
+.midtext{
+    display: grid;
+    margin-left: 500px;
+}
+
