@@ -228,10 +228,70 @@ a{
 
 }
 .BottomRight{
+    position: absolute;
+}
+.formpage{
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: #fdede4;
+}
+.formname{
+    font-size: 25px;
+    align-items: center;
+}
+.formusername{
+    font-size: 20px;
+}
+.formemail{
+    font-size: 20px;
+}
+.pozhelaniya{
+    font-size: 20px;
+}
+.formusernamefield{
+    font-size: 20px;
+    height: 30px;   
+    width: 350px;
+}
+.formemailfield{
+    font-size: 20px;
+    height: 30px;
+    width: 350px;
+}
+.pozhelaniyafield{
+    font-size: 16px;
+    min-height: 50px;
+    min-width: 352px;
+    max-height: 150px;
+    max-width: 750px;
+}
+.formnumber{
+    font-size: 20px;
+}
+.formnumberfield{
+    font-size: 20px;
+    height: 30px;
+    width: 350px;    
+}
+.formcheckbox{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.formcheckboxfield{
 
 }
+.button{
+    display: grid;
+    font-size: 25px;
+}
 .footerpage{
-    background-color: #ffe6d8;
+    background-color: #fdede4;
 }
 .footer{
     justify-content: center;
