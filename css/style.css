@@ -286,7 +286,8 @@ a{
 .formcheckboxfield{
 
 }
-.button{
+#button{
+    color: black;
     display: grid;
     font-size: 25px;
 }
