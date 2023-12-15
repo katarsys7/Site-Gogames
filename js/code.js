@@ -15,7 +15,7 @@ button.onclick=function(){
     }
 }
 button.textContent='Feedback';
-document.body.appendChild(button);
+rem.appendChild(button);
 
 let s = 0;
 styleb = document.createElement('styleb');
