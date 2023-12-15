@@ -1,6 +1,6 @@
 button = document.createElement('button');
 button.id = 'button';
-let rem = document.querySelector("#form");
+let rem = document.querySelector("form");
 let q = 0;
 
 button.onclick=function(){
