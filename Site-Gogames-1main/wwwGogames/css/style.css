@@ -1,0 +1,118 @@
+.BodyPage{
+    background-color: #fddecd;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.HeaderLogo{
+    width: 287px;
+    height: 78px;
+}
+HeaderLogo:link{
+    cursor: pointer;
+    margin-left: 139px;
+    margin-top: 20px;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+.MenuText{
+    color: #446381;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 18px;
+    gap: 50px;
+    margin-left: 300px;
+}
+.SitePart1{
+    display: flex;
+}
+.TopImages{
+    display: flex;
+}
+.TopGlasses{
+    position: absolute;
+    margin-left: 542px;
+    margin-top: 52px;
+}
+.TopCharacter{
+    position: absolute;
+    margin-left: 605px;
+    margin-top: 80px;
+}
+.TopGamepad{
+    position: absolute;
+    margin-top: 574px;
+    margin-left: 1060px;
+}
+.LeftTop{
+    display: grid;
+    margin-top: 200px;
+    margin-right: 50%;
+}
+.LeftTopText1{
+    color: #446381;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+.LeftTopText2{
+    color: #EB8382;
+    font-size: 68px;
+    margin-bottom: 40px;
+}
+.LeftTopTextDescription{
+    color: #446381;
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 162%;
+    margin-bottom: 30px;
+    margin-right: 100px;
+}
+.Top{
+    display: flex;
+}
+.TopX{
+    margin-left: 300px;
+    margin-top: 0px; 
+}
+.TopSection{
+    margin-left: 350px;
+    margin-right: 300px;
+}
+.GSN{
+    width: 150px;
+    color: white;
+    display: flex;
+    border-radius: 25px;
+    padding: 15px 15px;
+    justify-content: center;
+    background: linear-gradient(95deg, #4499D9 17.46%, #7367BE 87.77%);
+}
+.mid_page{
+    background-color: #ffe6d8;
+    margin-top: 50px;
+    display: flex;
+}
+.MidSection{
+    margin-top: 300px;
+    margin-left: 350px;
+    margin-right: 300px;
+}
+.midphotos{
+    position: absolute;
+}
+.midman{
+    margin-left: -100px;
+}
+.midshadow{
+    margin-left: 100px;
+}
+.midtv{
+
+}
+.midtext{
+    display: grid;
+    margin-left: 500px;
+}
+

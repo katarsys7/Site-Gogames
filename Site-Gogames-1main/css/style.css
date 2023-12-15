@@ -1,0 +1,316 @@
+body{
+    margin: 0px 0px 0px 0px;
+}
+.BodyPage{
+    background-color: #fddecd;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.HeaderLogo{
+    width: 287px;
+    height: 78px;
+}
+HeaderLogo:link{
+    cursor: pointer;
+    margin-left: 139px;
+    margin-top: 20px;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+.MenuText{
+    color: #446381;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 18px;
+    gap: 45px;
+    margin-left: 300px;
+}
+.form_button{
+    display: grid;
+}
+.SitePart1{
+    display: flex;
+}
+.TopImages{
+    display: flex;
+}
+.TopGlasses{
+    position: absolute;
+    margin-left: 542px;
+    margin-top: 52px;
+}
+.TopCharacter{
+    position: absolute;
+    margin-left: 605px;
+    margin-top: 80px;
+}
+.TopGamepad{
+    position: absolute;
+    margin-top: 574px;
+    margin-left: 1060px;
+}
+.LeftTop{
+    display: grid;
+    margin-top: 200px;
+    margin-right: 50%;
+}
+.LeftTopText1{
+    color: #446381;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+.LeftTopText2{
+    color: #EB8382;
+    font-size: 68px;
+    margin-bottom: 40px;
+}
+.LeftTopTextDescription{
+    color: #446381;
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 162%;
+    margin-bottom: 30px;
+    margin-right: 100px;
+}
+.Top{
+    display: flex;
+}
+.TopX{
+    margin-left: 300px;
+    margin-top: 0px; 
+}
+.TopSection{
+    margin-left: 350px;
+    margin-bottom: 50px;
+    margin-right: 300px;
+}
+.GSN{
+    width: 150px;
+    color: white;
+    display: flex;
+    border-radius: 25px;
+    padding: 15px 15px;
+    justify-content: center;
+    background: linear-gradient(95deg, #4499D9 17.46%, #7367BE 87.77%);
+}
+.mid_page{
+    background-color: #ffe6d8;
+    margin-top: 0px;
+    display: flex;
+}
+.MidSection{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 350px;
+    margin-right: 300px;
+}
+.midphotos{
+    margin-top: 100px;
+    margin-left: -100px;
+    position: absolute;
+}
+.midman{
+    position: absolute;
+    margin-left: 200px;
+}
+.midshadow{
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 200px;
+}
+.midtv{
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 400px;
+}
+.midtext{
+    
+    display: grid;
+    margin-left: 750px;
+}
+.midtext1{
+    color: #446381;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+.midtext2{
+    color: #EB8382;
+    font-size: 68px;
+    margin-bottom: 40px;
+}
+.midtext3{
+    color: #446381;
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 162%;
+    margin-bottom: 30px;
+    margin-right: 100px;
+
+}
+.TopGamepad{
+    position: absolute;
+    margin-top: 574px;
+    margin-left: 1060px;
+}
+.LeftMid2{
+    display: grid;
+    margin-top: 200px;
+    margin-right: 50%;
+}
+.LeftMid2Text1{
+    color: #446381;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+.LeftMid2Text2{
+    color: #EB8382;
+    font-size: 68px;
+    margin-bottom: 40px;
+}
+.LeftMid2TextDescription{
+    color: #446381;
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 162%;
+    margin-bottom: 30px;
+    margin-right: 100px;
+}
+.SitePart3{
+    display: flex;
+    margin-left: 350px;
+    margin-bottom: 50px;
+    margin-right: 300px;
+}
+.Mid2Images{
+    display: flex;
+    position: absolute;
+    margin-left: 605px;
+    margin-top: 80px;
+}
+.Bottompage{
+    margin-top: 100px;
+    margin-bottom: 0px;
+    background-color: #ffe6d8;
+}
+.Bottomsection{
+    padding-top: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 100px;
+}
+.BottomText{
+    display: grid;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.BottomText1{
+    color: #446381;
+    font-size: 23px;
+    margin-left: 215px;
+}
+.BottomText2{
+    color: #EB8382;
+    font-size: 68px;
+    margin-bottom: 50px;
+}
+.BottomImages{
+
+}
+.BottomLeft{
+
+}
+.BottomCenter{
+    padding-top: -100px;
+
+}
+.BottomRight{
+    position: absolute;
+}
+#form{
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: #fdede4;
+    
+}
+.formname{
+    font-size: 25px;
+    align-items: center;
+}
+.formusername{
+    font-size: 20px;
+}
+.formemail{
+    font-size: 20px;
+}
+.pozhelaniya{
+    font-size: 20px;
+}
+.formusernamefield{
+    font-size: 20px;
+    height: 30px;   
+    width: 350px;
+}
+.formemailfield{
+    font-size: 20px;
+    height: 30px;
+    width: 350px;
+}
+.pozhelaniyafield{
+    font-size: 16px;
+    min-height: 50px;
+    min-width: 352px;
+    max-height: 150px;
+    max-width: 790px;
+}
+.formnumber{
+    font-size: 20px;
+}
+.formnumberfield{
+    font-size: 20px;
+    height: 30px;
+    width: 350px;    
+}
+.formcheckbox{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.formcheckboxfield{
+
+}
+#button{
+    color: black;
+    display: grid;
+    font-size: 25px;
+}
+.footerpage{
+    background-color: #fdede4;
+}
+.footer{
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    padding-top: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+}
+.FooterLogo{
+
+}
+.FooterRights{
+    
+    color: #446381;
+}
+.new_class{
+    align-items: center;
+}
